@@ -17,7 +17,7 @@ I'm Just bigginer in this feild. just finding my way
 
 
 ## 🛠 Skills
-Basic of : java , HTML, css,python
+Basic of : java , HTML, css, python
 
 
 
